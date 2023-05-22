@@ -1,0 +1,5 @@
+name: a7env
+channels:
+  - conda-forge
+  - defaults
+prefix: /home/matt/miniconda3/envs/a7env
